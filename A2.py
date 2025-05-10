@@ -1,4 +1,4 @@
-# Assignment 2:
+# Assignment 2: Explore loops in python
 
 # Task 1: Counting down using loops
 # Prompt user for a starting number
